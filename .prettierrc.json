@@ -1,0 +1,21 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "importOrder": [
+    "<THIRD_PARTY_MODULES>",
+    "^../(.*)",
+    "^@/a-app/(.*)$",
+    "^@/b-processes/(.*)$",
+    "^@/pages/(.*)$",
+    "^@/widgets/(.*)$",
+    "^@/x-features/(.*)$",
+    "^@/y-entities/(.*)$",
+    "^@/z-shared/(.*)$"
+  ]
+}
